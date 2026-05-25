@@ -10,6 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=manikantasd724&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=manikantasd724&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manikantasd724&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+username=manikantasd724&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 “Data tells a story — I love finding it.”
